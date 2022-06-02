@@ -1,12 +1,12 @@
 
-// for (let i = 0; i <= 100; i++){
-//     if (i % 2 !== 0) continue;
-//     alert(i);
-// }
-// for (let i = 0; i <= 100; i++){
-//     if (i % 3 !== 0) continue;
-//     alert(i);
-// }
+for (let i = 0; i <= 100; i++){
+    if (i % 2 !== 0) continue;
+    alert(i);
+}
+for (let i = 0; i <= 100; i++){
+    if (i % 3 !== 0) continue;
+    alert(i);
+}
 
 
 // let ageUser = 18;
